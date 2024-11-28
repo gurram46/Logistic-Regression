@@ -34,4 +34,12 @@ b. Discuss the significance of features in predicting the target variable (survi
 
 7. Deployment with Streamlit:
 
-In this task, you will deploy your logistic regression model using Streamlit. The deployment can be done locally or online via Streamlit Share. Your task includes creating a Streamlit app in Python that involves loading your trained model and setting up user inputs for predictions. 
+In this task, you will deploy your logistic regression model using Streamlit. The deployment can be done locally or online via Streamlit Share. Your task includes creating a Streamlit app in Python that involves loading your trained model and setting up user inputs for predictions.
+
+
+
+# This is the deployment using Streamlit:
+![Screenshot (45)](https://github.com/user-attachments/assets/aeefe780-ad6a-4d1f-b700-158d190d69bd)
+
+
+![Screenshot (46)](https://github.com/user-attachments/assets/58993eba-d0d4-49af-8a91-0de9ea94b59c)
